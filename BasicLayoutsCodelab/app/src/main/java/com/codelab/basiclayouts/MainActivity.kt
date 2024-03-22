@@ -464,3 +464,4 @@ fun MySoothePortraitPreview() {
 fun MySootheLandscapePreview() {
     MySootheAppLandscape()
 }
+
