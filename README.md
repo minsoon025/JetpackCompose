@@ -8,7 +8,7 @@
 
 <h4>instagram-jetpackcompose</h4>
 
-<img src="./exec/instagram-jetpackcompose.gif" alt="instagram-jetpackcompose" style="zoom: 100;" />
+<img src="./exec/instagram-jetpackcompose.gif" alt="instagram-jetpackcompose"  />
 
 
 <h4>sunflower</h4>
